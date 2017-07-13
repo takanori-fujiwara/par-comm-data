@@ -1,4 +1,4 @@
-# Communication Data of Supercomputing Applications
+# Parallel Communication Data in Supercomputers
 
 ## About
 Communication datasets including routes and message size information between compute nodes/cores. These datasets were collected for the paper:
