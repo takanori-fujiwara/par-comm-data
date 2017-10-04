@@ -7,7 +7,7 @@ Communication datasets including routes and message size information between com
 Takanori Fujiwara, Preeti Malakar, Venkatram Vishwanath, Khairi Reda, Michael E. Papka, and Kwan-Liu Ma    
 In Proceedings of IEEE Symposium on Visual Analytics Science and Technology (VAST), 2017.
 
-The system used in the paper above is also available.
+The system used in the paper above is also available.    
 ***Visuco***    
  https://github.com/takanori-fujiwara/visuco (under work for cleaning the code)
 
